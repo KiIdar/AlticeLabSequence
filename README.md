@@ -1,4 +1,4 @@
-# AlticeLabSequence
+# AlticeLabSequence Exercise
 
 Import the project to your chosen IDE and go to the file src/main/java/project/labseqapi/LabseqApiApplication.java and run it.
 
